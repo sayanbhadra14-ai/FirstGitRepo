@@ -1,3 +1,3 @@
 # FirstGitRepo
 My first Git Repository
-Author - Sayan Bhadra
+Author - Sayan Bhadra (XIM University)
